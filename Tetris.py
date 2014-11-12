@@ -263,3 +263,5 @@ class PlayTetris(BasicAnimationClass):
             self.drawGameOverScreen()
 
 PlayTetris(20, 15).run()
+
+print "cool"
